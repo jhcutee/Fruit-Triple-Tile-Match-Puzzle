@@ -11,3 +11,5 @@ Assets/Script/TileManager.cs
 Assets/Script/SoundManager.cs
 Assets/MobileDependencyResolver/**
 Assets/Script/AdsMob/**
+.vs/
+.vscode/
